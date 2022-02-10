@@ -1,2 +1,2 @@
 # Vegetation_Greening_Effects
-Evaluation of impacts of vegetation greening and climate change using DTVGM-PML.
+Assessment of the impacts of vegetation greening and climate change on regional hydrology across China.
